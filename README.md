@@ -1,0 +1,2 @@
+# linkid
+safelink js
